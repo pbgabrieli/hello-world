@@ -2,4 +2,4 @@
 Test repository
 Additional info
 
-Line from centralized
+Line from [additional text] centralized
